@@ -1,0 +1,1 @@
+FROM blang/latex:ubuntu
